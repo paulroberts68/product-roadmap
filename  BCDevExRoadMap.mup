@@ -90,9 +90,21 @@
                     }
                   }
                 },
-                "6": {
-                  "title": "Backlog",
-                  "id": 28
+                "7": {
+                  "title": "GitHub issues labels",
+                  "id": 32,
+                  "attr": {
+                    "style": {}
+                  },
+                  "ideas": {
+                    "1": {
+                      "title": "Backlog display on web-app",
+                      "id": 28,
+                      "attr": {
+                        "style": {}
+                      }
+                    }
+                  }
                 }
               }
             },
@@ -103,17 +115,22 @@
                 "style": {}
               }
             },
-            "3": {
-              "title": "Adoption Agreement",
-              "id": 14,
+            "4": {
+              "title": "Terms of offer",
+              "id": 29,
               "attr": {
                 "style": {}
               },
-              "ideas": {}
-            },
-            "4": {
-              "title": "Terms of offer",
-              "id": 29
+              "ideas": {
+                "1": {
+                  "title": "Adoption Agreement",
+                  "id": 14,
+                  "attr": {
+                    "style": {}
+                  },
+                  "ideas": {}
+                }
+              }
             },
             "5": {
               "title": "Terms of acceptance",
