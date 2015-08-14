@@ -1,0 +1,18 @@
+{
+  "title": " ",
+  "id": 1,
+  "formatVersion": 2,
+  "attr": {
+    "storyboards": [
+      "Storyboard 1"
+    ],
+    "storyboard-scenes": [
+      {
+        "storyboards": {
+          "Storyboard 1": 1
+        }
+      }
+    ],
+    "style": {}
+  }
+}
