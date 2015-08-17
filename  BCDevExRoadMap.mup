@@ -40,7 +40,7 @@
                   "id": 18,
                   "attr": {
                     "style": {
-                      "background": "#c0c0c0"
+                      "background": "#ff0000"
                     },
                     "position": [
                       88,
@@ -72,7 +72,7 @@
                       "id": 34,
                       "attr": {
                         "style": {
-                          "background": "#c0c0c0"
+                          "background": "#ff0000"
                         }
                       },
                       "ideas": {}
@@ -287,11 +287,11 @@
                   "id": 53
                 },
                 "0.5": {
-                  "title": "Release _",
+                  "title": "Release _ of API.BCDevEx.ca",
                   "id": 74,
                   "attr": {
                     "style": {
-                      "background": "#c0c0c0"
+                      "background": "#ff0000"
                     }
                   },
                   "ideas": {
@@ -353,6 +353,10 @@
         "1": {
           "title": "Guide to GitHub",
           "id": 47
+        },
+        "2": {
+          "title": "Guide to open source",
+          "id": 76
         }
       }
     },
@@ -375,7 +379,7 @@
               1
             ],
             "style": {
-              "background": "#c0c0c0"
+              "background": "#ff0000"
             }
           },
           "ideas": {
@@ -423,7 +427,7 @@
                   },
                   "attr": {
                     "style": {
-                      "background": "#c0c0c0"
+                      "background": "#ff0000"
                     }
                   }
                 },
@@ -450,7 +454,7 @@
               },
               "attr": {
                 "style": {
-                  "background": "#c0c0c0"
+                  "background": "#ff0000"
                 }
               }
             },
@@ -485,11 +489,11 @@
           "id": 39,
           "ideas": {
             "1": {
-              "title": "Production R_",
+              "title": "Release _",
               "id": 42,
               "attr": {
                 "style": {
-                  "background": "#c0c0c0"
+                  "background": "#ff0000"
                 }
               },
               "ideas": {
@@ -547,7 +551,7 @@
           },
           "attr": {
             "style": {
-              "background": "#c0c0c0"
+              "background": "#ff0000"
             }
           }
         }
