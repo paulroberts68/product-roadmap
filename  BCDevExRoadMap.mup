@@ -36,7 +36,7 @@
               },
               "ideas": {
                 "1": {
-                  "title": "Production R3",
+                  "title": "Release 3 ",
                   "id": 18,
                   "attr": {
                     "style": {
@@ -68,7 +68,7 @@
                       "id": 33
                     },
                     "0.5": {
-                      "title": "Production R4",
+                      "title": "Release _",
                       "id": 34,
                       "attr": {
                         "style": {
@@ -192,6 +192,26 @@
         "style": {
           "background": "#ffffff"
         }
+      },
+      "ideas": {
+        "2": {
+          "title": "Prototype ",
+          "id": 57,
+          "ideas": {
+            "1": {
+              "title": "Developer can engage with community of program devs",
+              "id": 55,
+              "attr": {
+                "style": {}
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#c0c0c0"
+            }
+          }
+        }
       }
     },
     "21": {
@@ -231,7 +251,7 @@
           "id": 24,
           "ideas": {
             "1": {
-              "title": "WSO2",
+              "title": "Users can experiment with BCLaws WSO2",
               "id": 25,
               "attr": {
                 "style": {},
@@ -242,12 +262,54 @@
                 ]
               }
             },
+            "2": {
+              "title": "Users can view API Spec ",
+              "id": 50,
+              "attr": {
+                "style": {}
+              }
+            },
             "0.5": {
               "title": "Prototype",
               "id": 27,
               "attr": {
                 "style": {
                   "background": "#c0c0c0"
+                }
+              },
+              "ideas": {
+                "2": {
+                  "title": "Users can build a prototype API",
+                  "id": 52
+                },
+                "3": {
+                  "title": "Users can list their API in a self service store",
+                  "id": 53
+                },
+                "0.5": {
+                  "title": "Release _",
+                  "id": 74,
+                  "attr": {
+                    "style": {
+                      "background": "#c0c0c0"
+                    }
+                  },
+                  "ideas": {
+                    "1": {
+                      "title": "Users can register their API",
+                      "id": 54,
+                      "attr": {
+                        "style": {}
+                      }
+                    },
+                    "2": {
+                      "title": "Users can build their API",
+                      "id": 51,
+                      "attr": {
+                        "style": {}
+                      }
+                    }
+                  }
                 }
               }
             }
@@ -267,6 +329,16 @@
         "style": {
           "background": "#ffffff"
         }
+      },
+      "ideas": {
+        "1": {
+          "title": "Create Gov account",
+          "id": 48
+        },
+        "2": {
+          "title": "Create BCDevEx account",
+          "id": 49
+        }
       }
     },
     "0.25": {
@@ -275,6 +347,12 @@
       "attr": {
         "style": {
           "background": "#ffffff"
+        }
+      },
+      "ideas": {
+        "1": {
+          "title": "Guide to GitHub",
+          "id": 47
         }
       }
     },
@@ -285,19 +363,106 @@
         "style": {
           "background": "#ffffff"
         }
-      }
-    },
-    "-76": {
-      "title": "Continuous Integration",
-      "id": 10,
-      "attr": {
-        "position": [
-          93,
-          112,
-          26
-        ],
-        "style": {
-          "background": "#ffffff"
+      },
+      "ideas": {
+        "0.5": {
+          "title": "Release  0 ",
+          "id": 63,
+          "attr": {
+            "position": [
+              63,
+              -144,
+              1
+            ],
+            "style": {
+              "background": "#c0c0c0"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Release 1",
+              "id": 64,
+              "ideas": {
+                "1": {
+                  "title": "Release 2",
+                  "id": 65,
+                  "ideas": {
+                    "1": {
+                      "title": "Users can see a backlog",
+                      "id": 58,
+                      "attr": {
+                        "style": {}
+                      }
+                    },
+                    "2": {
+                      "title": "Users can see  work status",
+                      "id": 59,
+                      "attr": {
+                        "style": {}
+                      }
+                    },
+                    "3": {
+                      "title": "Users can see  skills needed",
+                      "id": 60,
+                      "attr": {
+                        "style": {}
+                      }
+                    },
+                    "4": {
+                      "title": "Users can access a  dev community",
+                      "id": 72
+                    },
+                    "5": {
+                      "title": "Users can access an API gateway",
+                      "id": 73
+                    },
+                    "6": {
+                      "title": "Business owners can activate stats",
+                      "id": 75
+                    }
+                  },
+                  "attr": {
+                    "style": {
+                      "background": "#c0c0c0"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Users can access the lab",
+                  "id": 67
+                },
+                "3": {
+                  "title": "Users can access projects",
+                  "id": 68
+                },
+                "4": {
+                  "title": "Users can access GitHub",
+                  "id": 69,
+                  "ideas": {}
+                },
+                "5": {
+                  "title": "Users can sign-in",
+                  "id": 70,
+                  "attr": {
+                    "style": {}
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "background": "#c0c0c0"
+                }
+              }
+            },
+            "2": {
+              "title": "Users understand DevEx value proposition",
+              "id": 66
+            },
+            "3": {
+              "title": "Users can see a blog",
+              "id": 71
+            }
+          }
         }
       }
     },
@@ -306,9 +471,9 @@
       "id": 6,
       "attr": {
         "position": [
-          80,
-          -132,
-          24
+          145,
+          -166,
+          26
         ],
         "style": {
           "background": "#ffffff"
@@ -320,7 +485,7 @@
           "id": 39,
           "ideas": {
             "1": {
-              "title": "Production R3",
+              "title": "Production R_",
               "id": 42,
               "attr": {
                 "style": {
@@ -341,7 +506,7 @@
                   "ideas": {}
                 },
                 "3": {
-                  "title": "Provide servers",
+                  "title": "Users can access a dev stack",
                   "id": 45,
                   "attr": {
                     "style": {}
@@ -353,6 +518,24 @@
                   "id": 46,
                   "attr": {
                     "style": {}
+                  }
+                },
+                "5": {
+                  "title": "DevOps & CI",
+                  "id": 62,
+                  "attr": {
+                    "style": {
+                      "background": "#c0c0c0"
+                    }
+                  },
+                  "ideas": {
+                    "1": {
+                      "title": "Users can explore a lean-start up DevOps environment",
+                      "id": 61,
+                      "attr": {
+                        "style": {}
+                      }
+                    }
                   }
                 }
               }
@@ -370,5 +553,6 @@
         }
       }
     }
-  }
+  },
+  "links": []
 }
