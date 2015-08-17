@@ -36,7 +36,7 @@
               },
               "ideas": {
                 "1": {
-                  "title": "Production",
+                  "title": "Production R3",
                   "id": 18,
                   "attr": {
                     "style": {
@@ -50,37 +50,51 @@
                   },
                   "ideas": {
                     "1": {
-                      "title": "Trust Model",
+                      "title": "Developer trust model initiated",
                       "id": 15,
                       "attr": {
                         "style": {}
                       }
                     },
                     "2": {
-                      "title": "Digital ID",
+                      "title": "Digital ID used to authenticate payee",
                       "id": 21,
                       "attr": {
                         "style": {}
                       }
+                    },
+                    "3": {
+                      "title": "$1000 transactions  in place",
+                      "id": 33
+                    },
+                    "0.5": {
+                      "title": "Production R4",
+                      "id": 34,
+                      "attr": {
+                        "style": {
+                          "background": "#c0c0c0"
+                        }
+                      },
+                      "ideas": {}
                     }
                   }
                 },
                 "5": {
-                  "title": "Authentication",
+                  "title": "Authenticate user",
                   "id": 20,
                   "attr": {
                     "style": {}
                   },
                   "ideas": {
                     "1": {
-                      "title": "Code acceptance",
+                      "title": "Accept code through a QA process",
                       "id": 31,
                       "attr": {
                         "style": {}
                       },
                       "ideas": {
                         "1": {
-                          "title": "PayPal integration",
+                          "title": "Use PayPal to pay",
                           "id": 19,
                           "attr": {
                             "style": {}
@@ -91,32 +105,42 @@
                   }
                 },
                 "7": {
-                  "title": "GitHub issues labels",
+                  "title": "Display work status on web-app",
                   "id": 32,
                   "attr": {
-                    "style": {}
+                    "style": {},
+                    "position": [
+                      104,
+                      63.875,
+                      3
+                    ]
                   },
-                  "ideas": {
-                    "1": {
-                      "title": "Backlog display on web-app",
-                      "id": 28,
-                      "attr": {
-                        "style": {}
-                      }
-                    }
+                  "ideas": {}
+                },
+                "8": {
+                  "title": "Display backlog on web-app",
+                  "id": 28,
+                  "attr": {
+                    "style": {}
                   }
                 }
               }
             },
             "2": {
-              "title": "Terms of Service",
+              "title": "User can accept Terms of Service",
               "id": 13,
               "attr": {
                 "style": {}
+              },
+              "ideas": {
+                "1": {
+                  "title": "Create DevEx account ",
+                  "id": 37
+                }
               }
             },
             "4": {
-              "title": "Terms of offer",
+              "title": "User can accept Terms of Offer",
               "id": 29,
               "attr": {
                 "style": {}
@@ -133,8 +157,14 @@
               }
             },
             "5": {
-              "title": "Terms of acceptance",
-              "id": 30
+              "title": "Payor can provide Terms of Acceptance",
+              "id": 30,
+              "ideas": {
+                "1": {
+                  "title": "Accept pull request",
+                  "id": 36
+                }
+              }
             }
           },
           "attr": {
@@ -282,6 +312,61 @@
         ],
         "style": {
           "background": "#ffffff"
+        }
+      },
+      "ideas": {
+        "2": {
+          "title": "Release 0 of lab.BCDevEx.ca",
+          "id": 39,
+          "ideas": {
+            "1": {
+              "title": "Production R3",
+              "id": 42,
+              "attr": {
+                "style": {
+                  "background": "#c0c0c0"
+                }
+              },
+              "ideas": {
+                "1": {
+                  "title": "Provide blanket policy and licenses",
+                  "id": 38,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "2": {
+                  "title": "Provide authentication",
+                  "id": 44,
+                  "ideas": {}
+                },
+                "3": {
+                  "title": "Provide servers",
+                  "id": 45,
+                  "attr": {
+                    "style": {}
+                  },
+                  "ideas": {}
+                },
+                "4": {
+                  "title": "Provide KONG API sandbox",
+                  "id": 46,
+                  "attr": {
+                    "style": {}
+                  }
+                }
+              }
+            },
+            "2": {
+              "title": "WS02 sandbox",
+              "id": 43
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#c0c0c0"
+            }
+          }
         }
       }
     }
