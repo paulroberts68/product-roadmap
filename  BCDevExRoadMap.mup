@@ -494,52 +494,52 @@
               "attr": {
                 "style": {
                   "background": "#ff0000"
-                }
+                },
+                "position": [
+                  184,
+                  -110,
+                  1
+                ]
               },
               "ideas": {
-                "1": {
-                  "title": "Provide blanket policy and licenses",
-                  "id": 38,
-                  "attr": {
-                    "style": {}
-                  }
-                },
                 "2": {
                   "title": "Provide authentication",
                   "id": 44,
                   "ideas": {}
                 },
-                "3": {
-                  "title": "Users can access a dev stack",
-                  "id": 45,
-                  "attr": {
-                    "style": {}
-                  },
-                  "ideas": {}
-                },
                 "4": {
-                  "title": "Provide KONG API sandbox",
+                  "title": "Developers can  access Nuxeo",
                   "id": 46,
                   "attr": {
                     "style": {}
                   }
                 },
-                "5": {
-                  "title": "DevOps & CI",
-                  "id": 62,
+                "0.5": {
+                  "title": "Users can create a DNS labs.bcdevexchange.org/project",
+                  "id": 77,
                   "attr": {
-                    "style": {
-                      "background": "#c0c0c0"
-                    }
-                  },
-                  "ideas": {
-                    "1": {
-                      "title": "Users can explore a lean-start up DevOps environment",
-                      "id": 61,
-                      "attr": {
-                        "style": {}
-                      }
-                    }
+                    "style": {}
+                  }
+                },
+                "0.75": {
+                  "title": "Users can access a cloud servers",
+                  "id": 78,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "0.8125": {
+                  "title": "DevOps Tool chain",
+                  "id": 79,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "0.25": {
+                  "title": "Provide blanket policy and licenses",
+                  "id": 38,
+                  "attr": {
+                    "style": {}
                   }
                 }
               }
